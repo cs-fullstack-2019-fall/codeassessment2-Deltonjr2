@@ -10,3 +10,15 @@
 
 # BIRD is longer than COW
 # ```
+
+def chk_strings(hello, goodbye):
+
+userinput1=[h e l l o]
+            0,1 2,3, 4
+userinput2=[g o o d bye]
+            0,1,2,4,5,6,7
+userinput1=input("enter a string")
+userinput2=input("enter a string")
+
+return (userinput1,userinput2)
+

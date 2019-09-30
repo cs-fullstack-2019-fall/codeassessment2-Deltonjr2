@@ -12,3 +12,8 @@
 # 1  2  7 are smaller than 9
 # 12  24  34  10 are larger than 9
 # ```
+user_input = int(input("Enter a number"))
+many_numberArray=[12,24,1,34,10,2,7]
+
+for eachElement in many_numberArray:
+    print()

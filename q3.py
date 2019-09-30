@@ -8,4 +8,11 @@
 # Example Output:
 # ```
 # The newly created list contains:     2  1  4  3  6  5  8  7  10  9
-# ```
+# `
+# def new_list():
+list_Array1 = [2, 4, 6, 8, 10]
+list_Array2 = [1, 3, 5, 7, 9]
+new_listArray=[]
+
+list_Array1.append(list_Array2)
+print(list_Array1)
